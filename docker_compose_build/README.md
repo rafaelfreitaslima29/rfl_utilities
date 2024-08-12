@@ -7,7 +7,7 @@ Script shellScript para facilitar rotinas de levantar um docker compose.
 ```bash
 chmod +x d_compose_build.sh
 ```
-
+<br>
 
 ## Configurações
 
@@ -16,6 +16,7 @@ Para isso só é necessário abrir o script e modificar o nome do NETWORK_NAME d
 
 <img src="img/Captura de tela de 2024-08-12 09-32-05.png">
 
+<br>
 
 ## Opções de Uso:
 
