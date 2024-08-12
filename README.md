@@ -6,10 +6,10 @@ Scripts e parte de códigos úteis no deselvimento.
 ## Scripts disponíveis:
 
 
-<table border="1">
+<table border="1" style="width: 100%">
     <thead>
         <tr>
-            <th>SCRIPT</th> <th>UTILIDADE</th> <th>PASTA</th>
+            <th style="width: 25%">SCRIPT</th> <th style="width: 45%">UTILIDADE</th> <th style="width: 30%">PASTA</th>
         <tr>
     </thead>
     <tbody>
